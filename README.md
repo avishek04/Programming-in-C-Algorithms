@@ -1,2 +1,1 @@
-# CS50-PSET3
-CS50 Problem Set3
+# CS50 Algorithms Problems
